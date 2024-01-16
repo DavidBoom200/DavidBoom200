@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidBoom200
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me david.kakuk80@gmail.com
+- 🌱 I’m currently learning python
+- 📫 How to reach me: david-kakuk
 
 <!---
 DavidBoom200/DavidBoom200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
